@@ -8,7 +8,7 @@ Màster de Professorat
 2025-2026
 
 
-**Aquest mapa organitza les meves reflexions personals i teòriques en quatre eixos fonamentals que connecten la meva experiència com a alumna de la UB amb la meva futura pràctica docent.
+**Aquest mapa organitza les meves reflexions personals i teòriques en quatre eixos fonamentals que connecten la meva experiència com a alumna de la UB amb la meva futura pràctica docent.**
 
 ---
 
