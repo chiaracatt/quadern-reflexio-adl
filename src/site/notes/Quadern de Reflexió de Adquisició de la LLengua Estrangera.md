@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quadern-de-reflexio-de-adquisicio-de-la-l-lengua-estrangera/"}
+{"dg-publish":true,"permalink":"/quadern-de-reflexio-de-adquisicio-de-la-l-lengua-estrangera/","tags":["gardenEntry"]}
 ---
 
 
