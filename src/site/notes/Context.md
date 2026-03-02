@@ -4,8 +4,7 @@
 
 [[Quadern de Reflexió de Adquisició de la LLengua Estrangera\|Quadern de Reflexió de Adquisició de la LLengua Estrangera]]
 
----
-tipus: categoria
+
 ---
 # Context
 > [!info] Definició

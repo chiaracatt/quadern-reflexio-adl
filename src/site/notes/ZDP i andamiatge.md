@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/zdp-i-andamiatge/"}
 ---
 
+[[Quadern de Reflexió de Adquisició de la LLengua Estrangera\|Quadern de Reflexió de Adquisició de la LLengua Estrangera]]
 
 # ZDP i andamiatge: el suport que es retira
 

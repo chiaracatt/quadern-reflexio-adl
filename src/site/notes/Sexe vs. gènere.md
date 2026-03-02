@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/sexe-vs-genere/"}
 ---
 
+[[Quadern de Reflexió de Adquisició de la LLengua Estrangera\|Quadern de Reflexió de Adquisició de la LLengua Estrangera]]
 
 ---
 

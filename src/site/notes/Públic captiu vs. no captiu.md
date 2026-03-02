@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/public-captiu-vs-no-captiu/"}
 ---
 
+[[Quadern de Reflexió de Adquisició de la LLengua Estrangera\|Quadern de Reflexió de Adquisició de la LLengua Estrangera]]
+
+
 # Públic captiu vs. no captiu
 
 > [!quote] Objectiu Docent

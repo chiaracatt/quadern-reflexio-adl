@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/cos-cor-i-cap/"}
 ---
 
+[[Quadern de Reflexió de Adquisició de la LLengua Estrangera\|Quadern de Reflexió de Adquisició de la LLengua Estrangera]]
+
 # Cos, cor i cap: l’aprenentatge integral
+
 
 > [!success] Visió Holística
 > L'aprenentatge travessa tot l'ésser: cognició, emoció i presència física.

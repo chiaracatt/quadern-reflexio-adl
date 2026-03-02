@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/llengua-privilegi-i-capital-cultural/"}
 ---
 
+[[Quadern de Reflexió de Adquisició de la LLengua Estrangera\|Quadern de Reflexió de Adquisició de la LLengua Estrangera]]
+
 
 ---
 # Llengua, privilegi i capital cultural

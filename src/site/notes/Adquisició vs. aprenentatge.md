@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/adquisicio-vs-aprenentatge/"}
 ---
 
+[[Quadern de Reflexió de Adquisició de la LLengua Estrangera\|Quadern de Reflexió de Adquisició de la LLengua Estrangera]]
 
 # Adquisició vs. aprenentatge
 

@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/cristal-litzacio-de-l-error-i-feedback/"}
 ---
 
-# Cristal·lització de l’error i feedback  
+[[Quadern de Reflexió de Adquisició de la LLengua Estrangera\|Quadern de Reflexió de Adquisició de la LLengua Estrangera]]
+
+# Cristallizació de l'error i feedback
+
 
 Com a aprenent de català, noto clarament la meva interllengua. Hi ha errors per interferència de l’italià i del castellà que tendeixen a fossilitzar-se. El feedback ha de ser una ajuda perquè l’alumne prengui consciència de la distància amb la llengua meta, sense bloquejar el flux que s'estudia a la [[ZDP i andamiatge\|ZDP i andamiatge]].
 

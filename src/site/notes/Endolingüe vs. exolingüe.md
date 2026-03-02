@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/endolinguee-vs-exolinguee/","tags":["sociolingüística","experiència-personal"]}
 ---
 
+[[Quadern de Reflexió de Adquisició de la LLengua Estrangera\|Quadern de Reflexió de Adquisició de la LLengua Estrangera]]
+
+
 # Endolingüe vs. exolingüe
 
 > [!abstract] Resum
