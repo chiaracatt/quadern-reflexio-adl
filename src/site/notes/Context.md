@@ -16,5 +16,5 @@ Aquesta categoria explora com el lloc i la situació influeixen en l'aprenentatg
 **Notes relacionades:**
 * [[Endolingüe vs. exolingüe\|Endolingüe vs. exolingüe]]
 * [[Públic captiu vs. no captiu\|Públic captiu vs. no captiu]]
-* [[El MCERL i els àmbits d’ús\|El MCERL i els àmbits d’ús]]
+* [[MCERL i àmbits d’ús\|MCERL i àmbits d’ús]]
 * [[Docilitat i ensinistrament\|Docilitat i ensinistrament]]
